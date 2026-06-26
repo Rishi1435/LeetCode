@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishi1435/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishi1435/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishi1435/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
