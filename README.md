@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishi1435/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rishi1435/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishi1435/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishi1435/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -65,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
