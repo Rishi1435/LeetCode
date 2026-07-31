@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rishi1435/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishi1435/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishi1435/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -42,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rishi1435/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
