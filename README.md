@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Rishi1435/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Rishi1435/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rishi1435/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishi1435/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Rishi1435/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
