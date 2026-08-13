@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishi1435/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Rishi1435/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Rishi1435/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishi1435/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Rishi1435/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rishi1435/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rishi1435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
