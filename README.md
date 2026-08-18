@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi1435/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Rishi1435/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi1435/LeetCode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/Rishi1435/LeetCode/tree/master/1518-water-bottles) |
 ## Monotonic Stack
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
