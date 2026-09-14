@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rishi1435/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/Rishi1435/LeetCode/tree/master/1518-water-bottles) |
 ## Monotonic Stack
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
