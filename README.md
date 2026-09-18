@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rishi1435/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Rishi1435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rishi1435/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Rishi1435/LeetCode/tree/master/0682-baseball-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi1435/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Rishi1435/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -170,4 +172,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
