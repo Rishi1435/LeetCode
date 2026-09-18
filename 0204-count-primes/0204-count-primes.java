@@ -5,12 +5,10 @@ class Solution {
         }
         int count=0;
         boolean[] sieves=new boolean[n+1];
-        for(int i=0;i<=n;i++){
+        for(int i=2;i<=n;i++){
             sieves[i]=true;
         }
-        sieves[0]=false;
-        sieves[1]=false;
-        int sq=(int) Math.sqrt(n);
+        int sq=(int) Math.sqrt(n-1);
         for(int p=2;p<=sq;p++){
             if(sieves[p]){
                 for(int i=p*p;i<=n;i+=p){
