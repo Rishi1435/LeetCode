@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/Rishi1435/LeetCode/tree/master/1518-water-bottles) |
+| [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
 | ------- |
@@ -188,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
