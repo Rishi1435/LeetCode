@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rishi1435/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rishi1435/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/Rishi1435/LeetCode/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rishi1435/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishi1435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Rishi1435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Rishi1435/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Rishi1435/LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishi1435/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Rishi1435/LeetCode/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
