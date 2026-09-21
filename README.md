@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi1435/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rishi1435/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Rishi1435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rishi1435/LeetCode/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishi1435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rishi1435/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rishi1435/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Rishi1435/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rishi1435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishi1435/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi1435/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Rishi1435/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Rishi1435/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
