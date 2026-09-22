@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rishi1435/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Rishi1435/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-find-common-characters](https://github.com/Rishi1435/LeetCode/tree/master/1002-find-common-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rishi1435/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishi1435/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Rishi1435/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1002-find-common-characters](https://github.com/Rishi1435/LeetCode/tree/master/1002-find-common-characters) |
 | [1768-merge-strings-alternately](https://github.com/Rishi1435/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishi1435/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishi1435/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
+| [1002-find-common-characters](https://github.com/Rishi1435/LeetCode/tree/master/1002-find-common-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishi1435/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishi1435/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
