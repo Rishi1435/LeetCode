@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rishi1435/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rishi1435/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rishi1435/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Rishi1435/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Rishi1435/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rishi1435/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rishi1435/LeetCode/tree/master/0055-jump-game) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Rishi1435/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rishi1435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Rishi1435/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
