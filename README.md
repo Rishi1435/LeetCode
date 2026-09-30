@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishi1435/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishi1435/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/Rishi1435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rishi1435/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1002-find-common-characters](https://github.com/Rishi1435/LeetCode/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishi1435/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rishi1435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishi1435/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishi1435/LeetCode/tree/master/0344-reverse-string) |
+| [0556-next-greater-element-iii](https://github.com/Rishi1435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rishi1435/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Rishi1435/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishi1435/LeetCode/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Rishi1435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Rishi1435/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/Rishi1435/LeetCode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/Rishi1435/LeetCode/tree/master/1952-three-divisors) |
