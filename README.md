@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rishi1435/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi1435/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Rishi1435/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishi1435/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rishi1435/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishi1435/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Rishi1435/LeetCode/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/Rishi1435/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishi1435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
