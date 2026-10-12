@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi1435/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi1435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Rishi1435/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Rishi1435/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rishi1435/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishi1435/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rishi1435/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rishi1435/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Geometry
