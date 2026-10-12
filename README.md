@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Rishi1435/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Geometry
 |  |
 | ------- |
