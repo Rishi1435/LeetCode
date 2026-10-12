@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rishi1435/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishi1435/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rishi1435/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Rishi1435/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Rishi1435/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Rishi1435/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rishi1435/LeetCode/tree/master/0704-binary-search) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rishi1435/LeetCode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Rishi1435/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Rishi1435/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rishi1435/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Geometry
