@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Rishi1435/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Rishi1435/LeetCode/tree/master/0739-daily-temperatures) |
 | [1002-find-common-characters](https://github.com/Rishi1435/LeetCode/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/Rishi1435/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rishi1435/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rishi1435/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Rishi1435/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
