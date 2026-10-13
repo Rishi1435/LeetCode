@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Rishi1435/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishi1435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishi1435/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rishi1435/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi1435/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishi1435/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishi1435/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Rishi1435/LeetCode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/Rishi1435/LeetCode/tree/master/1518-water-bottles) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rishi1435/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishi1435/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishi1435/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishi1435/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishi1435/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Rishi1435/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishi1435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rishi1435/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
